@@ -1,0 +1,26 @@
+{
+  "name": "typescript-starter-kit",
+  "version": "1.0.0",
+  "description": "A repo to use as a starting point for Typescript projects.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osnth01/typescript-starter-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osnth01/typescript-starter-kit/issues"
+  },
+  "homepage": "https://github.com/osnth01/typescript-starter-kit#readme",
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}

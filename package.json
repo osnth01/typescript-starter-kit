@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A repo to use as a starting point for Typescript projects.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/osnth01/typescript-starter-kit.git"
